@@ -1,16 +1,23 @@
-### Hi there 👋
+👋 Olá, eu sou Luiz Filipe!
 
-<!--
-**RoomDev/RoomDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Atualmente, estou focado em aprimorar minhas habilidades em Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Conhecimento:
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
+            <i class="devicon-discordjs-plain"></i>
+
+          
+
+🏖️ Vivo na bela cidade de Salvador, Bahia, no Brasil.
+
+⚙️ Além do mundo da programação, sou um grande fã de One Piece.
+
+🚀 Vamos juntos explorar o vasto mundo da tecnologia e continuar aprendendo a cada dia. Seja bem-vindo ao meu perfil do GitHub! 🌟
+
+#Contato:
+<a href = "luizbrandaodev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
