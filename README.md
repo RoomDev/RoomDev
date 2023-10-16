@@ -2,9 +2,6 @@
 
 🌐 Atualmente, estou focado em aprimorar minhas habilidades em Python.
 
-
-## Ferramentas e Tecnologias
-
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" width="40" height="40"/></td>
