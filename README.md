@@ -12,7 +12,8 @@
 
 🏖️ Vivo na bela cidade de Salvador, Bahia, no Brasil.
 
-⚙️ Além do mundo da programação, sou um grande fã de One Piece.
+⚙️ Além do mundo da programação, sou um grande fã de One Piece. ![Minha Imagem](https://imgur.com/nkXdhJ4.png){:width="40" height="40"}
+
 
 🌟 Seja bem-vindo ao meu perfil do GitHub!
 
