@@ -8,6 +8,7 @@
 
 🌟 Seja bem-vindo ao meu perfil do GitHub!
 
+<h1 align="center"> Linguas </h1>
 #Linguas:
 <table>
   <tr>
