@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7A459&random=false&width=435&lines=To+be+the+best+version." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7A459&random=false&width=435&lines=Hello hello;To+be+the+best+version." alt="Typing SVG" />
 </a>
 
 
