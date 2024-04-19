@@ -13,6 +13,7 @@
     <li><b>Línguas:</b> Português e inglês</li>
     <li><b>Gostos:</b> Anime, mangás, geek</li>
     <li><b>Hobby:</b> Programar, ler, assistir e ouvir</li>
+    <li><b>E-mail:</b> <a href="mailto:luizbrandaodev@gmail.com">luizbrandaodev@gmail.com</a></li>
     <li><b>Site:</b> Em andamento</li>
   </ul>
   <br><br><br>
@@ -114,6 +115,16 @@
 <a href="https://pandas.pydata.org">
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 </a>
+
+# Technical Skills
+
+[![Pandas Mastery](https://img.shields.io/badge/Pandas-80%25-brightgreen)](https://pandas.pydata.org/)
+[![Cypress Mastery](https://img.shields.io/badge/Cypress-60%25-brightgreen)](https://www.cypress.io/)
+[![Python Mastery](https://img.shields.io/badge/Python-50%25-yellow)](https://www.python.org/)
+[![JavaScript Mastery](https://img.shields.io/badge/JavaScript-10%25-red)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C# Mastery](https://img.shields.io/badge/C%23-5%25-red)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+
 
 # Discord
 <p align="center">
