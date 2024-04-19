@@ -118,6 +118,23 @@
 
 # Technical Skills
 
+[![Windows Mastery](https://img.shields.io/badge/Windows-80%25-brightgreen)](https://www.microsoft.com/en-us/windows)
+[![Windows 11 Mastery](https://img.shields.io/badge/Windows_11-70%25-brightgreen)](https://www.microsoft.com/en-us/windows/windows-11)
+</br>
+
+[![Google Sheets Mastery](https://img.shields.io/badge/Google_Sheets-60%25-brightgreen)](https://www.google.com/sheets)
+[![Microsoft Excel Mastery](https://img.shields.io/badge/Microsoft_Excel-20%25-yellow)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Microsoft Sharepoint Mastery](https://img.shields.io/badge/Microsoft_Sharepoint-15%25-red)](https://www.microsoft.com/en-us/microsoft-365/sharepoint)
+[![Miro Mastery](https://img.shields.io/badge/Miro-80%25-brightgreen)](https://miro.com/)
+[![Obsidian Mastery](https://img.shields.io/badge/Obsidian-10%25-red)](https://obsidian.md/)
+[![Trello Mastery](https://img.shields.io/badge/Trello-100%25-brightgreen)](https://trello.com/)
+</br>
+
+[![VSCode Mastery](https://img.shields.io/badge/VSCode-60%25-brightgreen)](https://code.visualstudio.com/)
+[![Visual Studio Mastery](https://img.shields.io/badge/Visual_Studio-5%25-red)](https://visualstudio.microsoft.com/)
+[![Conda Mastery](https://img.shields.io/badge/Conda-45%25-yellow)](https://conda.io/)
+</br>
+
 [![Pandas Mastery](https://img.shields.io/badge/Pandas-80%25-brightgreen)](https://pandas.pydata.org/)
 [![Cypress Mastery](https://img.shields.io/badge/Cypress-60%25-brightgreen)](https://www.cypress.io/)
 [![Python Mastery](https://img.shields.io/badge/Python-50%25-yellow)](https://www.python.org/)
@@ -127,6 +144,6 @@
 
 
 # Discord
-<p align="center">
+<p align="right">
   <img src="https://lanyard.kyrie25.me/api/892048596164309043?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square" alt="Spotify Listening Activity">
 </p>
