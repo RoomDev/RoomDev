@@ -1,14 +1,22 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7A459&random=false&width=435&lines=To+be+the+best+version." alt="Typing SVG" />
-<br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A7A459&random=false&width=435&lines=To+be+the+best+version." alt="Typing SVG" />
+  <br><br>
+</div>
 
-<p align="right">
-  <img src="https://imgur.com/7gPmWMt.png" width="25%" style="padding-right: 20px" />
-</p>
-
-<p align="left">
-Olá fgfdgfdgdfgdfgdfgdfgfdgdfgfdgdfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
-</p>
+<div style="clear: right;">
+  <img src="https://imgur.com/7gPmWMt.png" align="right">
+  <ul>
+    <li><b>Name:</b> Luiz</li>
+    <li><b>Idade:</b> 18</li>
+    <li><b>Estado:</b> Bahia</li>
+    <li><b>Cidade:</b> Salvador</li>
+    <li><b>Línguas:</b> Português e inglês</li>
+    <li><b>Gostos:</b> Anime, mangás, geek</li>
+    <li><b>Hobby:</b> Programar, ler, assistir e ouvir</li>
+    <li><b>Site:</b> Em andamento</li>
+  </ul>
+  <br><br><br>
+</div>
 
 
 # Skill tree
